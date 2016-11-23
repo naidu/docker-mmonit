@@ -1,4 +1,4 @@
-# docker-mmonit
+# mmonit
 
 This project is to kickstart a mmonit docker container. 
 
